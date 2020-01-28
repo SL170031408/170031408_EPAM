@@ -1,1 +1,1 @@
-this is sample file
+This is sample A file txt.
